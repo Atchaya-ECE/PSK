@@ -67,14 +67,11 @@ plt.title("BPSK Modulated Signal")
 plt.subplot(4,1,4)
 plt.step(range(len(decoded_bits)), decoded_bits)
 plt.title("Decoded Bits")
-
 plt.tight_layout()
 plt.show()
-
 print("Original Bits:", bits)
 print("Decoded Bits :", decoded_bits)
 ```
-
 # QPSK
 ```
 import numpy as np
@@ -155,7 +152,6 @@ plt.show()
 print("Input Bits:", bits)
 print("Decoded Bits:", decoded_bits)
 ```
-
 # Output Waveform
 # PSK
 <img width="1190" height="790" alt="image" src="https://github.com/user-attachments/assets/4b267931-4eb2-42b3-a672-da974f72538b" />
