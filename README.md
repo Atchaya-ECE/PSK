@@ -1,6 +1,5 @@
 ## Name : V.Atchaya
 ## Reg.no : 212224060031
-
 # PSK & QPSK
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
