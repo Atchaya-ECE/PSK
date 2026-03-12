@@ -173,4 +173,4 @@ Input Bits: [1, 0, 1, 1, 0, 0, 0, 1]
 Decoded Bits: [1, 0, 1, 0, 0, 0, 0, 0]
 ```
 # Results
-The experiment of modulation and demodulation of Phase Key Shifting and Quadriphase Key Shifting was successfully executed.
+The experiment of modulation and demodulation of PSK and QPSK was successfully executed.
